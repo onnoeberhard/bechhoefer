@@ -10,6 +10,7 @@ dependencies = [
     { name = "matplotlib" },
     { name = "numpy" },
     { name = "oetils" },
+    { name = "scipy" },
     { name = "sympy" },
 ]
 
@@ -18,6 +19,7 @@ requires-dist = [
     { name = "matplotlib", specifier = ">=3.10.8" },
     { name = "numpy", specifier = ">=2.4.2" },
     { name = "oetils", specifier = ">=0.2.11" },
+    { name = "scipy", specifier = ">=1.17.0" },
     { name = "sympy", specifier = ">=1.14.0" },
 ]
 
